@@ -1,0 +1,21 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "<h1>A test for AlayaCare: </h1>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Testing\" && exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeDani/AlayaCareTestMontreal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeDani/AlayaCareTestMontreal/issues"
+  },
+  "homepage": "https://github.com/CodeDani/AlayaCareTestMontreal#readme"
+}
